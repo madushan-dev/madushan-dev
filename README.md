@@ -1,6 +1,27 @@
 # 💫About Me :
-I am Madushan Gunarathne from Sri Lanka.
-I am following a BICT degree in University of Ruhuna
+Organized and self-motivated software engineer graduate with 2+ years combined internship and
+professional experience. Fluent in both Frontend and Backend development with JavaScript, Java,
+Python, SQL, and CSS. Possess practical working knowledge of relational databases using MySQL, SQL
+Server, Cloud Development, and Agile Development. Constantly updating personal and professional
+technical skills with complementary collegiate courses and online bootcamps. Reliable and
+responsible team player.
+
+Key Skills:
+
+MERN Stack Development: Expertise in building robust and dynamic web applications using MongoDB, Express.js, React.js, and Node.js.
+
+Angular: Proficient in developing interactive and responsive user interfaces using Angular framework.
+
+Spring Boot: Strong background in Java-based Spring Boot applications, ensuring secure and efficient backend services.
+
+RESTful APIs: Experience in designing and implementing RESTful APIs for seamless communication between frontend and backend systems.
+
+Database Management: Skilled in database design, optimization, and management using both SQL and NoSQL databases.
+
+Agile Development: Practiced in Agile methodologies, ensuring timely delivery and continuous improvement of software products.
+
+Problem-Solving: Adept at analyzing complex problems and implementing creative and effective solutions.
+Collaborative Team Player: Excellent communication skills and ability to work collaboratively in cross-functional teams.
 
 
 # 💻Tech Stack
